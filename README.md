@@ -110,3 +110,17 @@ If you want to use it in a school, improve the code, add lessons, or make the UI
 - `scripts/app/`: App state, layout, rendering, theme, lessons, sliders, persistence, and UI helpers
 - `scripts/geometry/`: Geometry models, graph presets, formulas, and math utilities
 - `requirements.txt`: Project dependencies
+
+## Software in-action pictures
+
+**Functions:**
+<img width="1920" height="1174" alt="image" src="https://github.com/user-attachments/assets/aa656d40-ba6e-4baa-bd1b-5bdd11b03f96" />
+
+**Quadratic Function:**
+<img width="1920" height="1175" alt="image" src="https://github.com/user-attachments/assets/5af0fa63-74ad-4199-b5a0-c5ebc6637d17" />
+
+**Shapes:**
+<img width="1920" height="1173" alt="image" src="https://github.com/user-attachments/assets/4d0a8f5d-7ef4-4ff2-9f50-52f6a4399761" />
+
+**Constraints:**
+<img width="1920" height="1172" alt="image" src="https://github.com/user-attachments/assets/2c00a4ae-140a-41a9-bf44-389ccd107cef" />
